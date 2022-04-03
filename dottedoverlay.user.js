@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         HOLLOWKNIGHT LOGO TEMPLATE
+// @name         r/place Serbia TEMPLATE
 // @namespace    http://tampermonkey.net/
 // @version      1
 // @description  try to take over the canvas!
-// @author       oralekin
+// @author       tiasd
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
